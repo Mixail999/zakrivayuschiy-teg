@@ -131,7 +131,7 @@
   z-index: 1;
   top: 25px;
   right: 13px;
-  font-family: var(--accent-font);
+  font-family: var(--accent-font, 'PressStart2P'), 'Papyrus', fantasy;
   font-size: 14px;
   line-height: normal;
   color: inherit;
